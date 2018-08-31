@@ -1,0 +1,30 @@
+body {
+  background-color: ivory;
+}
+
+#country {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5%;
+}
+#country-detail{
+  width:40%;
+}
+
+#map-container{
+  width:60%;
+  height:400px;
+}
+
+.header {
+  font-family: fantasy;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.flag {
+  width: 80%;
+  height: 200px;
+}
